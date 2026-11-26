@@ -17,7 +17,7 @@ The gap is consistent across all eight themes I grouped: **everyone can find a p
 
 The two scores are within noise; the sequencing decision is about **data access, not market size**.
 
-**The credit stack is real, and it is mostly fast.** Verified on 26 Nov 2026: Cloudflare $10k (live website is the gate), Google for Startups $2k self-serve, AWS Activate Founders $1k–$5k, Microsoft $200–$1,000 starter, MongoDB $15k, ElevenLabs $5,500+ in voice. That is roughly **$17k–$35k of usable infrastructure** for a solo founder with a live MVP and no funding. OpenAI and Anthropic are closed to him (partner-VC-gated and cohort-full respectively) — do not plan around them.
+**The credit stack is real, and it is mostly fast.** Verified on 26 Nov 2026: Cloudflare $10k (live website is the gate), Google for Startups $2k self-serve, AWS Activate Founders $1k–$5k, Microsoft $200–$1,000 starter, MongoDB $15k, ElevenLabs $5,500+ in voice. That is a **$13.2k floor and a ~$38.5k ceiling** of usable infrastructure for a solo founder with a live MVP and no funding. OpenAI and Anthropic are closed to him (partner-VC-gated and cohort-full respectively) — do not plan around them.
 
 ---
 
@@ -296,7 +296,7 @@ Verified against each vendor's own page on 26 November 2026. Full table with quo
 | **OpenAI for Startups** | no self-serve path, no published amount; credits route through partner VCs | — | 1/5 |
 | **Anthropic Claude Startups** | cohort **closed**, "not accepting new applications"; $100k API credits only via a partner VC | — | 1/5 |
 
-**Week-one application stack (nothing here needs funding, a deck or a referrer):** Cloudflare $10k → Google $2k → AWS $1k → Microsoft $200–$1,000 → MongoDB $15k (only if the product actually uses Atlas) → ElevenLabs (only if voice is in the product). Realistic usable total: **$17k–$35k**, most of it approved inside two weeks. Add Stripe Atlas the moment a US customer or investor needs a Delaware entity.
+**Week-one application stack (nothing here needs funding, a deck or a referrer):** Cloudflare $10k → Google $2k → AWS $1k → Microsoft $200–$1,000 → MongoDB $15k (only if the product actually uses Atlas) → ElevenLabs (only if voice is in the product). Realistic usable total: **$13.2k floor, ~$38.5k ceiling**, most of it approved inside two weeks. Add Stripe Atlas the moment a US customer or investor needs a Delaware entity.
 
 **How the product story helps.** A people-graph product is a good citizen of these programs: it needs a database with vector search (MongoDB), edge compute and object storage (Cloudflare), an always-on web app (Google/AWS/Azure), and — if voice intros or call notes are in scope — a voice API (ElevenLabs). That maps cleanly onto the tiers that are actually self-serve. A pure consumer companion app maps worse: it mostly consumes model tokens, which is the one category every vendor gates.
 

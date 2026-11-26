@@ -21,7 +21,7 @@ What YC funded in people, relationships and warm introductions across the last s
 - **Zero** companies in the six batches sell a warm-introduction engine. Eleven find people, two store relationships, none route a path between two humans.
 - Only **5 of 28** core companies have publicly announced funding (Pally $5.2M, Pocket $11M, Artificial Societies $5.35M, Pickle ~$4.42M, Logical LKR 150M+) — absence of news is not absence of money.
 - **Recommendation:** Idea 1 *Acquaintance Graph* (8.5/10) for the company, Idea 2 *Conference Acquaintance* (8.4/10) as the data wedge — same engine, CSV-first so no OAuth review blocks launch.
-- **Credits:** ~**$17k–$35k** usable for an unfunded solo founder (Cloudflare $10k, Google $2k, AWS $1k–$5k, Microsoft $200–$1,000, MongoDB $15k, ElevenLabs $5,500+). OpenAI and Anthropic are closed to him.
+- **Credits:** **$13.2k floor / ~$38.5k ceiling** usable for an unfunded solo founder (Cloudflare $10k, Google $2k, AWS $1k–$5k, Microsoft $200–$1,000, MongoDB $15k, ElevenLabs $5,500+). OpenAI and Anthropic are closed to him.
 
 ## Method
 
